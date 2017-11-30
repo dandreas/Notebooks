@@ -5,7 +5,7 @@ Creation-Date: 2017-11-23T19:39:33-06:00
 ====== Q1 Contemporary Epistemology ======
 Created Thursday 23 November 2017
 
-=== &!(09072017) ===
+=== (09072017) ===
 Questions of epistemoloy:
 	1. What is knowledge
 	2. How do we get knowledge
@@ -22,7 +22,8 @@ Grand divide of ways of doing epistemology:
 	2. Modern Way
 		Mind-first: epistemology is when you study how to best use the mind to discern knowledge.
 
-=== &!(09122017) ===
+
+=== (09122017) ===
 What Epistemology is?
 	Core Questions:
 		What is knowledge
@@ -62,7 +63,8 @@ Core Features of Knowledge
 		Knowing is always belief, but belief is not always knowing
 			belief is assent 
 
-=== &!(09192017) ===
+
+=== (09192017) ===
 Core and items on propositional knowledge
 	1. Relation between conscious subject and worldly object
 	2. Relation is cognitive
@@ -93,6 +95,7 @@ On the Value of Knowledge
 			Why think that contrary beliefs like thinking you will beat terminal cancer are actually beliefs
 				(Possibly they are actually fantasys that help you achieve your goals)
 			It is very hard to determine what knowledge will be useful in the future.
+
 
 === (09212017) ===
 Knowledge has greater instrumental value than true belief
@@ -126,7 +129,8 @@ Classical Definition of Knowledge
 Gettier Case
 	Clock is dead at 7:35, a person checks the clock in the morning at actually 7:35, and has a justified true belief that it is 7:35 when it was actually due to luck (checking the clock at the perfect time)
 
-=== &!(09262017) ===
+
+=== (09262017) ===
 
 On writing better Summaries
 	I'm going to summarize this topic by this author in this work(s)
@@ -199,8 +203,10 @@ What is it that makes a belief justified for me to hold?
 						Not Strict: Just the things that seem true to me
 							Not infallible
 
+
 === (missed class 9/28) ===
-=== &!(10032017) ===
+
+=== (10032017) ===
 
 Master Argument for Coherentism
 	p1. Content requirement: In order to be a justifier, you need to have a propositional content, 
@@ -255,7 +261,7 @@ Epistemic Rationality
 			Maximise the number of truths that you grasp through their causes
         
 
-=== &!(10052017) ===
+=== (10052017) ===
 Conception of Rationality
 	Objective vs subjective rationality
 	Epistemic Norm: A rule that one follows in order to gain true beliefs
@@ -289,7 +295,8 @@ Towards an Externalist account of justification
 	Bonjour's Counterexamples
 		Bonjour argues that externalism is false.
 
-=== &!(10102017) ===
+
+=== (10102017) ===
 Externalism++ = lawlike connection between belief and the state of affairs that makes the belief true
 	and no cogen reasons against P and no general or specific reasons for thinking such a lawlike connection cannot exist.
 	Issues:
@@ -323,7 +330,8 @@ Goldman's Claim: Even if we assume the GD conception of justification, that stil
 						Rebuttal:
 							Why do you need to have justification of your beliefs at all time?
 
-=== &!(10122017) ===
+
+=== (10122017) ===
 Weak internalism: Justifiers are limited to introspectible facts and facts stored in memory.
 	Allows for memory to count as justification
 	Issues:
@@ -366,7 +374,8 @@ Indirect Realism:
 		Secondary qualities: Features a thing has that depend on the perception of agents
 			Color, taste, smell, sound
 
-=== &!(10172017) ===
+
+=== (10172017) ===
 Argument from Illusion (For Indirect Realism)
 	C1: The immediate object of sense experience is not a public physical object, but rather sense data.
 		sense data: Private, non-physical entities that actually possess sensory qualities of experience.
@@ -407,6 +416,7 @@ Indirect Realism:
 		We see things from our persepective in a 2d -> 3d format
 	Reply to idealism:
 		It seems like the order of things changes in idealism when we blink, yet intuitively we do not experience this. 
+
 
 === (10192017) ===
 Bonjour against Idealism:
