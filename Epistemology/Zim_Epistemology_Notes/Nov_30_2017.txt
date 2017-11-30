@@ -1,0 +1,91 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-30T11:02:38-06:00
+
+====== Nov 30 2017 ======
+Created Thursday 30 November 2017
+
+=== Applied Aquinas ===
+Rough Sketch of Scientia:
+1. Organized body of knowledge
+	a. Broader than contemporary science
+2. Perfect knowledge of things through their causes
+	a. Not merely an instance of knowing //that //something is the case (x is a plant)
+	b. Knowing //why //something is the case (this is what would make something x a plant)
+3. Goal of inquiry
+	a. "Men do not think that they know a thing until they know its causes"
+4. Scientia is reached when the causal structure of beliefs mirrors the causal structure of the world.
+	a. The basis for a belief for a person with scientia on a thing will be qualitatively different than one without.
+		1. A mokey is eating rocks, you and an expert see it.
+		2. The monkey as you see it is eating rocks
+		3. The monkey as the expert sees it is eating rocks because of the causal structure that make the monkey eat the rocks.
+5. Requires all 3 acts of the mind [[Nov 28 2017|(Nov 28 2017)]]
+	a. Concepts 
+	b. Judgement
+	c. Reasoning
+Syllogism and the Whyagram
+1. __Syllogism:__ a valid argument composed of three terms and 3 //categorial propositions//.
+	a. __categorial propositions:__ Propositions with 1 subject and 1 predicate and no connectives.
+2. The Standard Example:
+	a. All //men// are //mortal //(Major Premise)
+	b. //Socrates// is a //man //(Minor premise
+	c. //Socrates// is //mortal//
+		1. Subject of the conclusion is always the __Minor term __ (Socrates)
+		2. The predicate of the conclusion is always the __Major term __ (mortal)
+		3. The subject of the first premise is always the __Middle term __ (Men)
+3. Whyagram
+	a. Method used to produce an argument stating why the conclusion is so.
+	b. Example:
+		1. Proving that cats are mammals.
+		2. cats || are mammals
+		3. Why is it so that cats are mammals? 
+		4. x(mammal/cat intercept): //Makes milk and have hair//
+		5. Choose a quantifier (whatever)
+			a. Whatever //makes milk and has hair// are mammals.
+			b. Cats //make milk and have hair//.
+			c. Cats are mammals.
+	c. Another Example:
+		1. Proving tomatoes are fruits
+		2. Tomatoes|| are fruits
+			a. x(Tomatoe/fruit intercept): //seed containing vehicles of plant reproduction//.
+			b. Choose a quantifier (whatever)
+				1. Whatever is a //seed containing vehicle of pland reproduction // are fruits.
+				2. Tomatoes are //seed containing vehicles of plant reproduction.//
+				3. Tomatoes are fruits.
+For scientia, the premises of the argument must meet "priority conditions."
+1. Successful scientia producing demonstration:
+	a. All vines are broad-leaved
+	b. All broad-leaved plants are sap-congealers at the leaf stalk.
+	c. All sap-congealers at the leaf stalk are deciduous
+	d. Therefore, all vines are deciduous (deciduous: leaves fall off in the fall)
+2. Features of the premises:
+	a. Each premise is necessarily true.
+	b. Each premise is true per se.
+		1. In accord with its nature.
+	c. Each premise is prior to the conclusion.
+	d. Each premise is true
+	e. Each premise states the cause.
+	f. The premises are immediate.
+	g. The premises are primitive
+		1. Each premise of a scientific demonstration must be a primitive truth.
+		2. Each predicate in the premises must be said primitively of the subject.
+		3. What does this mean?
+			a. Not merely universally said.
+				1. A predicate is said universally of a thing when it is said of all the members of a thing
+				2. Not universally said: All goats are female (false, cannot be said of each and every one of the kind)
+				3. Is universally said: All goats have internal organs. (true, can be said of each and every one of the kind)
+				4. point: A predicate said primitively is said universally of its subject, but not merely that.
+			b. A predicate said primitively is said per se, but not merely that
+				1. All humans are rational.
+				2. All humans are bodily.
+			c. A predicate said primitively belongs to the subject per se, but not to anything outside of the subject's genus.
+				1. Shorthand: The predicate is per se and uniquely true of the subject.
+		4. Examples:
+			a. Not primitive: All humans are bodily. (not only humans are bodily)
+			b. Not primitive: All plants are made of cells. (not only plants are made of cells)
+			c. Is primitive: All humans are risible (capacity for laughter). (only humans have this capacity)
+			d. is primitive: All broad leafed plants are sap-congealers at the leaf stalk. (only broad leafed plants are sap-congealers at the leaf stalk)
+		5. Primitive truths are convertable
+			a. All (a)s are (b)s and all (b)s are (a)s
+
+
