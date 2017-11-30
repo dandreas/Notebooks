@@ -1,0 +1,447 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-23T19:39:33-06:00
+
+====== Q1 Contemporary Epistemology ======
+Created Thursday 23 November 2017
+
+=== &!(09072017) ===
+Questions of epistemoloy:
+	1. What is knowledge
+	2. How do we get knowledge
+	3. Can we have knowledge
+Other related topics:
+	belief
+	rationality
+	justification
+	understanding
+	intellectual virtue
+Grand divide of ways of doing epistemology:
+	1. Ancient/Medieval
+		World-first: epistimology is the culmination of ones learning.
+	2. Modern Way
+		Mind-first: epistemology is when you study how to best use the mind to discern knowledge.
+
+=== &!(09122017) ===
+What Epistemology is?
+	Core Questions:
+		What is knowledge
+		Can we have knowledge
+		How do we get knowledge
+		Why is knowledge good or valuable
+		( Order Matters )
+	Subsidiary Questions
+		Justification   
+			That which makes it legitimate or justified to be certain about something
+		Rationality
+			2 forms, actions == beliefs and beliefs on their own
+		Virtues
+			Wisdom
+			Scientific knowledge
+			Understanding
+			Prudence
+			Art
+		Certainty
+			The degree of absense of fear or falsehood
+		Understanding
+			Grasping the causes of a thing, or the dependencies of a thing on other things
+		Evidence
+        
+	Broad Definition of Epistemology
+	&1Epistemology: the study of right or good ways to grasp reality cognitively
+	What would epistemology ask/say about:
+		poetry
+			is poetry a distinct method to truth?
+
+Core Features of Knowledge
+	1. Knowledge is a relation between a conscious subject and an object (but possibly not the immediate object) in reality
+	2. The relation is cognitive - ie the subject thinks and does not merely sense or feel the object
+		rules out emotions and desires
+		mandates that perception is a tool for knowledge, and the mind is the thing that builds knowledge
+	3. Knowing includes believing
+		Knowing is always belief, but belief is not always knowing
+			belief is assent 
+
+=== &!(09192017) ===
+Core and items on propositional knowledge
+	1. Relation between conscious subject and worldly object
+	2. Relation is cognitive
+	3. Knowingly includes believing
+	4. The object of knowledge is a proposition
+	5. The object of knowledge is a true proposition
+	6. Knowing is a good state
+&1Knowledge: to know is to believe a true proposition in a good way.
+&1Consciencious: setting good/high standards for something
+&1Consciencious belief: Our standard for believing something is that it is true.
+Distinction between ability knowledge and propositional knowledge
+	Ability knowledge: ways of making or doing
+True belief is not sufficient for Knowledge
+	Knowlede involves a kind of success that is creditable to the agent
+	True belief can occur by luck, which is not creditable to the agent
+	=> True belief is not sufficient for knowledge
+On the Value of Knowledge
+	Knowledge derives some value from true belief
+	&1Instrumental value: Valuable for a purpose beyond itself
+		Fire > warmth
+		cars > travel
+	&1Non-Instrumental value: Valuable for its own sake
+		Friends
+	True belief is instrumental to knowledge
+		True beliefs are generally more valuable than a false belief
+	Some true beliefs can not have value if they are useless or detrimental
+		Objections to this:
+			Why think that contrary beliefs like thinking you will beat terminal cancer are actually beliefs
+				(Possibly they are actually fantasys that help you achieve your goals)
+			It is very hard to determine what knowledge will be useful in the future.
+
+=== (09212017) ===
+Knowledge has greater instrumental value than true belief
+	True belief without support is easily undermined by new evidence
+	Knowledge seems not to have that instability
+		not absolutely stable
+	The stability is what makes knowledge more valuable than true belief
+Knowledge may have non-instrumental value
+	eg. wisdom
+Methodism and particularism as approaches to defining knowledge (robert chisolm)
+	1. Gather a lot of x, see what they have in common
+		a. How do you gather x without also collecting y
+	2. Think about what x-hood must be
+		a. Seems impossible without referencing some knowledge/experience of x in your life
+	&1Particularism: the approach to defining knowledge that begins with a bunch of cases of knowledge then seeks to generalize from those instances the criteria of that knowledge
+		Assumption: we assume that it is possible for us to gather this knowledge in the first place
+		Advantage: science
+		Disadvantage: assumes skepticism == false
+	&1Methodism: Reflect on the criteria for something to be x
+		Advantage: Doesn't assume skepticism == false
+Problem of the criterion
+	You need a correct definition to sort cases properly
+	You need to sort casses properly to get a correct definition
+	Way out: you don't need a fully correct definition to get the criterion right
+Classical Definition of Knowledge
+	JTB: Justified True Belief
+		Someone knows that p if and only if they have a justified true belief of p
+		Justification comes thru evidence/thourough investigation
+			does not allow for luck
+			epistemic blamelessness
+Gettier Case
+	Clock is dead at 7:35, a person checks the clock in the morning at actually 7:35, and has a justified true belief that it is 7:35 when it was actually due to luck (checking the clock at the perfect time)
+
+=== &!(09262017) ===
+
+On writing better Summaries
+	I'm going to summarize this topic by this author in this work(s)
+	Here's one reason why you should care about this topic.
+	Explain topic
+		Argument
+		Distinction
+		Claim
+		Taxonomy of Views
+	Invent, apply, and use your own examples to explain the author's meaning
+		Explain the examples
+
+Receipe for Gettier Case
+	1. Start with a justified false belief
+	2. Make the false belief true, by some lucky circumstance unknown to the agent.
+
+4th Condition on Knowledge to deal with Gettier cases
+	1. No false presuppositions.
+		It is possible to have knowledge with false propositions
+	2. No Defeater
+		defeater: False proposition that the agent is not aware of, and if the agent were aware of it, the agent's justification would vanish/diminish
+	3. Virtue approach to knowledge
+		Knowledge is true belief gained as a result of the operation of reliable epistemic virtues or cognitive faculties
+
+&1Justified Belief: A belief that is appropriately held.
+
+What is it that makes a belief justified for me to hold?
+	The Regress of Justification
+		Case:
+			I believe that the quiz is on monday (B)
+			why?
+			The teacher told me (R)
+			(R supports B)
+			I believe that there is milk in the fridge (B)
+			why?
+			There is a live cow in the fridge (R)
+			(R supports B)
+				Note that the cases have reasons that are beliefs of their own (and therefore also need justification)
+		Generate the regress:
+			Beliefs need grounds, reasons, and supports to be justified
+			Grounds themselves need to be justified
+			So, grounds need grounds
+			(and on and on)
+		Problematic because:
+			We are finite cognizers
+			Arbitrary stopping points are bad
+		Agrippa's Trilemma
+			(3 unpalatable responses to the regress of justification)
+	1. Our beliefs are unsupported
+	2. Our beliefs are supported by an infinite chain of justification (in which no supporting reason repeats itself)
+	3. Our beliefs are supported by a circular chain of justification in which some supporting reason repeats itself
+		Responses to the regress:
+	1. Infinitism: Infinite chains of justifications actually make our beliefs justified
+				Only needs to be potentially infinite
+	2. Coherentism: A circular chain of reasoning can justify a belief
+				Qualification: No coheretist is going to accept a very tight circle
+				(worldview <-> experience)
+				While we do this naturally, this may not be the right way.
+				Problem:
+					Good fiction has coherence, but is false
+					Detatchment problem: it is possible to have false coherent beliefs that are detached from the world
+	3. Foundationalism: a belief can be justified without being further supported by other beliefs
+				Usually not a belief (experience)
+				If it is, it is a self evident truth
+				Classical foundationalism: Chains of justification terminate in self-justifying beliefs
+				Problem:
+					You have to explain or give a criteria for self evident truths
+						Strict: Certain, immune from doubt, self evident
+							Doesn't justify much
+						Not Strict: Just the things that seem true to me
+							Not infallible
+
+=== (missed class 9/28) ===
+=== &!(10032017) ===
+
+Master Argument for Coherentism
+	p1. Content requirement: In order to be a justifier, you need to have a propositional content, 
+		and you need to represent that content assertively
+	p2. Only beliefs: only beliefs represent content assertively
+	C1. Only beliefs can be justified
+Objection 1 to the Master Argument: Experiences
+	p1. Experiences have propositional content
+		Example: in the case of an illusion
+			Experience: 'line B is longer than A'
+			Belief: 'line B is the same length as A'
+	C1. Beliefs are not the only way to represent content assertively
+	Reply: Experiences are simply a recognition of appearances, which we make beliefs about.
+Objection 2-3 to the Master Argument: Premise Principle
+	Premise Principle:
+		Used by the Coherentist
+		Basic point: justifiers for P must have propositional contents that can stand in inferential
+			relations to P.
+	Rejecting arguments for the premise principle:
+		Argument 1: Arbitrariness
+			Unless a state has propositional content that can stand in argumental relations to the
+				belief (unf)
+			Example: Headaches seem able to be justified by themselves
+			Reply: It is possible to give non-arbitrary relations between facts and events and the things they justify
+				Example: The headache stands in non-arbitrary relation to beliefs about the headache which can be used
+					to justify it.
+		Argument 2: Reasons and Evidence
+			A person isn't justified in believing something unless that person is 
+				able to cite some reason in favour of that belief
+			Example: I believe I know the time, because I have a reliable watch
+				(why is the watch reliable?) If noJustification: no reason
+			If you are able to cite this premise, you can say that justification is
+				related to arguments
+			Reply: Distinguish between justification making and justification showing
+				There are some items that you can show a justification is justified (shower)
+					eg. arguments
+				This does not mean that arguments must be argument makers
+Epistemic Rationality
+	Rationality: Involving the right use of our power of reason
+	Epistemic Rationality: Concerning right use of reason in search of the truth
+	Possible accounts of what epistemic rationality demands of us:
+		Seek to match God's knowledge
+			It is impossible, so it is not a good one
+		Maximise the number of true beliefs
+			It appears that human knowledge becomes perfected as it becomes a mirror of the world
+			There does not seem to be a moderate ammount of truth (it is a continuous search)
+			But: it seems that there are useless beliefs
+		Minimise false beliefs
+			It seems rational that one should eliminate erroneous beliefs
+			Problem: Satisfied by someone who believes nothing
+		Hobby Horse
+			Maximise the number of truths that you grasp through their causes
+        
+
+=== &!(10052017) ===
+Conception of Rationality
+	Objective vs subjective rationality
+	Epistemic Norm: A rule that one follows in order to gain true beliefs
+		at least subjectively
+	Deontic
+		If you form your beliefs responsably by your own lights then your beliefs are epistemically rational
+		Consequence: The blameless use of incorrect epistemic norms can still be epistemically rational
+		makes rationality a lot like culpability
+	Non-Deontic
+		One forms an epistemically rational belief only if one employs correct epistemic norms.
+		Consequence: If you blamelessly employ the wrong epistemic norms then your belief is not epistemically rational
+		comparable to sharpening (no moral imperative) 
+Internalism v. Externalism  
+	Internalism about rationality: Being epistemically rational is something the agent has control over.
+		Everyday use of rationality + justification
+		Seems to break the link between justification and knowledge
+	Extermalism about rationality: Being epistemically rational depends on factors outside of ones control.
+		Much closer link between justification and knowledge
+		Opposes the everyday use of rationality + justification
+
+Towards an Externalist account of justification
+	Externalism: A non-inferential belief is justified if and only if there is some property H of the believer
+		such that it is a law of nature that whenever a person satisfies H and has the belief, then the belief is true
+			Property H: actually visually processing a horse
+			Belief in question: There is a horse
+			Law of nature: whther someone actually visually processes a horse, and then believes that there
+				is a horse, then it is true that there is a horse => belief is true.
+			Verdict on externalism is bleief is justified
+		According to this there has got to be a law-like connection between a person's belief and the state of affairs
+			that makes that belief true.As long as we have that, we have justification
+	Bonjour's Counterexamples
+		Bonjour argues that externalism is false.
+
+=== &!(10102017) ===
+Externalism++ = lawlike connection between belief and the state of affairs that makes the belief true
+	and no cogen reasons against P and no general or specific reasons for thinking such a lawlike connection cannot exist.
+	Issues:
+		Arg by Analogy:
+			P1. Norman's belief is relevantly analagous to a hunch.
+			P2. No hunches are epistemically justified
+			C1. Norman's belief is not epistemically justified
+		Justifiers must be cognitively possessed
+		Norman's lawlike connection is not possessed by him at all
+		Connection to practical action:
+			P1. If externalism is true, then it can be more rational to act on a moderately justified belief
+				than on a highly justified belief.
+			P2. But it cannot be more rational to act on a moderately justified belief than on a highly justified belief.
+			C1. Externalism is not true.
+Internalism: All the factors that contribute to justification must be available from the first-person perspective
+
+Guidance-Deontological conception of justification:
+	I am justified in my belief of P when I have followed the rules in order to discern P
+Goldman's Claim: Even if we assume the GD conception of justification, that still doesn't properly support internalism
+	Knowability Constant on Justifiers
+		Justification has to do with duty but things that are totally beyond my knowledge are totally beyond my duty.
+		KJ (Knowledge Limiting constraint on Justifiers: The only facts that qualify as justifiers of agent's believing
+			P at time T are facts that the agent can readily know, at T, to obtain or not to obtain
+			From KJ to strong Internalism:
+				Readily known: knowable by introspection
+				Strong internalism: Justifiers are limited to one's conscious mental states.
+					Issues:
+						Drastic skeptical consequences
+						Fails to capture justification for stored beliefs
+					Too restrictive
+						Rebuttal:
+							Why do you need to have justification of your beliefs at all time?
+
+=== &!(10122017) ===
+Weak internalism: Justifiers are limited to introspectible facts and facts stored in memory.
+	Allows for memory to count as justification
+	Issues:
+		There are some basic knowledge that we know but do not remember the time where we learned them (need something beyond memory)
+		Internalism and Epistemic Principles:
+			Epistemic Principles: Propositions that state under which conditions a belief is justified, known, rational, unjustified, etc.
+				ex/ if someone knows a thing is a dog, then they are justified in saying that it is an animal
+			Goldman's Objection:
+			P1. On weak internalism, all justifiers are accessible by introspection and/or memory.
+			P2. Hardly anyone has access to correct epistemic principles by introspection or memory.
+			C1. So, on weak internalism, Epistemic Principles are justifiers for hardly anyone
+
+
+Perception
+	Robust, exceptually widespread
+	Perceptual appearances can be deceptive
+	One possibility of perceptual error is not worrisome.
+Argument from Illusion:
+	Conclusion: The direct object of perception is a sense impression or seeming, not the world itself.
+	Oasis Case:
+		(Good Case): A person(p1) sees an oasis in the desert
+		(Illusion Case): Another person(p2) sees the illusion of an oasis in the desert.
+		P1. The visual impression in the good case can be exactly the same as the visual 
+			impression formed by someone in the illusion case.
+		P2. If these two visual impressions can be the same, then what we experience in 
+			perception is not the world itself.
+		C1. (above, 341)
+Indirect Realism:
+	View: Human beings gain knowledge of the objective world by making inferences from sense impressions.
+	Realism:
+	1. The world exists independently of our minds.
+	2. We can know the world as it really is.
+	Indirect:
+	1. Sense impressions do not put us into immediate cognitive contact with reality
+	2. We must infer the existence and properties of the world from the sense impressions in our experience
+	Main Support: Arg from Illusion
+	Secondary Support: Distinction between primary and secondary qualities
+		Primary qualities: Features of things that they have independently of perception
+			Solidity, extension, motion, number, shape
+		Secondary qualities: Features a thing has that depend on the perception of agents
+			Color, taste, smell, sound
+
+=== &!(10172017) ===
+Argument from Illusion (For Indirect Realism)
+	C1: The immediate object of sense experience is not a public physical object, but rather sense data.
+		sense data: Private, non-physical entities that actually possess sensory qualities of experience.
+	3 args for C1:
+	1. Perceptual relativity: the object of sense experience seems to experience intrinsic change, while the actual object is not intrinsically changing.
+		The conditions of sense experience bring about seemings of change to objects, where they do not actually change (intrinsic change)
+	2. Illusion: Objects can appear to have properties they don't have. (stick in water)
+	3. Hallucination: Qualities can appear in experience when there is nothing material that exists to bear them. (oasis)
+		If the object of experience and the physical object do not have similar properties, then they must be different things. (2,3)
+		Something can have many visual properties, but only one is physically correct. (1)
+	Hard nose response: Why suppose that there is a difference between veritical and non-veritical experience?
+	Attack on sense data: Do sense datas exist thru time? Can they exist when they are not had? What are they(mental/non-mental)? 
+
+Argument from Scientific Account of Perception
+	The looking of things changes when the eyes are changed (but the things do not change).
+	Neurological changes would be able to induce visual experience (in the future).
+	There is a difference in time between perception and actuality (you do not see something when it is, you see it after it is).
+
+Phenominalism = idealism (epistemologically)
+	We cannot know anything about things beyond our experience.
+	We can have justified belief about material objects, because they are about our experience.
+	There is a material world, but it is entirely made up of sense data (and nothing beyond this collection).
+	chairs exist => there are sense experiences that are configured in a chairish way
+	Solypsism: there is only one person (me)
+
+Indirect Realism:
+	There is a mind-independent world, and we can know about it through our sense experience.
+	Our sense experience is caused by the external world. 
+	We are justified in believing things about the world, based upon inference from our sense experience.
+	Sense experience is not entirely chaotic
+		There is an external world
+	Sense experience is involuntary
+		Ordered and coherent
+		Repeatable
+		Can be broken up/off (blindness, blinking)
+	Natural explanations for sense experience:
+		Live in a 3d world
+		We see things from our persepective in a 2d -> 3d format
+	Reply to idealism:
+		It seems like the order of things changes in idealism when we blink, yet intuitively we do not experience this. 
+
+=== (10192017) ===
+Bonjour against Idealism:
+	Idealism requires 2 controversial claims:
+		Sense experience is a representation of reality
+		God is emulating reality
+	Bonjour only needs the first, and so claims his approach is simpler
+
+Direct Realism:
+	p1. The immediate object of sense experienceis not sense data, but material objects in the world.
+	p2. Our perceptual justification for beliefs about material objects is not inferential, but gained some other way.
+
+Disjunctivism:
+	View:
+	1. Veridical perceptual experience is an an essentially relational state of affairs.
+			Requires a relationship between the percieved and sense experience
+	2. The character of my perceptual experience is determined by material objects not causally, but constitutively
+			constitutively: included in (in this sense, sense experience)
+		Experience that does not properly reflect reality is not an experience of the same kind as veridical experience.
+			This is due to the essentially relational state that veridical experience requires.
+		Your set of all posible indistinguishable sense experiences of cake fall into two essentially different kinds.
+			Veridicle ones are essentially different from non-veridical ones.
+
+Skepticism
+	P1. I don't know that I'm not being decieved by a cartesian demon. (or not a brain in a vat, dreaming, in the matrix)
+	P2. if I don't know that I'm not being decieved b a demon, then I don't know that I'm dressed.
+	C1. I don't know that I'm dressed
+	You can't know whether you are in the real world or in a skeptical illusion
+	Knowledge is closed under entailment. 
+		K - x is a dog
+		k - being a dog entails being a mammal
+		=> you know that x is a mammal
+	Reply 1: deny closure premise (P2)
+		Sensitivity:
+			Knowledge must be sensitive
+			A belief is sensitive only if, had a world been different, my belief would have been different.
+		You are not sensitive when it comes to skeptical scenario (p1) beliefs, but you are to dressing (p2).
+        

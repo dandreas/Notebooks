@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-28T12:31:46-06:00
+
+====== Nov 28th 2017 ======
+Created Tuesday 28 November 2017
+
+=== News: ===
+* Paper deadline extended!
+
+=== Outline: ===
+1. Augros Chapter 3: Is the First Cause matter or energy?
+	a. Simple:
+		1. Matter is subject to motion.
+		2. The first cause is not subject to motion [change of place].
+			a. Motion depends on something else or on itself
+				1. Motion requires something to be moving, and something doing the moving
+					a. To move something is to give motion to it
+						1. Can the first cause be a self-mover
+							a. Principle: Nothing can give and recieve to itself the same thing at the same time.
+							b. => The first cause cannot be a self mover
+						2. To be moved is to recieve motion from it
+							a. The first cause cannot recieve motion for other things, or it would not be a first cause
+		3. But, neither option is possible for the first cause
+		4. (C) So, matter is not the first cause
+2. Augros Chapter 4: Is God (and everything else) a body?
+	a. Reasons:
+		1. Argument by imagination
+			a. If something is imaginable, then it can exist
+			b. Imagination is a guide to possibility
+			c. I can't imagine something without dimension (size,shape,location)
+			d. So, dimensionless being cannot exist
+		2. Simpler the thing, the simpler the idea
+			a. If something is going to be the most fundamental thing, it should be the most simple idea, such as a basic particle
+		3. Argument from act
+			a. Whatever is real must be capable of acting or being acted upon
+			b. Nothing acts on anything without contact
+			c. Contact requires a body
+			d. => Nothing without a body is real
+	b. Replies:
+		1. Against the arg by imagination
+			a. Invalid because we can imagine things that are impossible, such as aging in reverse
+			b. If it is possible it is imaginable, you still are not claiming that things that are not imaginable are impossible.
+		2. Against simple arg
+			a. Lines have a simpler idea, yet are a more complex thing than points
+		3. Against act arg
+			a. Premise (b) is false, and gives no support.

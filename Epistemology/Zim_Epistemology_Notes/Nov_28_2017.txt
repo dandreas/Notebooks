@@ -1,0 +1,67 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-28T11:02:28-06:00
+
+====== Nov 28 2017 ======
+Created Tuesday 28 November 2017
+
+===== Remainder of knower and known reading: =====
+How exactly can the knower be correlated with the known?:
+	The form which is binded to matter is the same which informs the intellect, but works in a different way, since the intellect has no matter.
+
+
+== Intentionality: ==
+1. __Intentionality__ is the feature of mental states that makes them of or about things besides themselves
+2. What makes a state to be an intentional state?
+	a. Being isomorphic to some other set of states or features/properties.
+	b. The source of intentionality of mental states is the intentionality of //nature//
+3. Problems:
+	a. (a) Isomorphism is insufficient for intentionality
+		1. there is a 1 to 1 mapping between 2 identical stones, perfect isomorphism, neither has intentional states. Therefore, isomorphic states do not have intentionality.
+		2. 2 dogs have the same form, but they don't //know //eachother because of this.
+		3. Isomorphism is a 2 way street, so if fido is isomorphic to spot, vice versa is true. Intentionality however is a 1 way street. Isomorphism is insufficient for intentionality because it gives a 2 way street and intent is a 1 way street
+	b. (a)Not even Thomistic sameness of form is sufficient for intentionality
+	c. (a)Not even Thomistic sameness of form plus causation is sufficient for intentionality
+		1. An oak tree has the form of oak tree. It drops an acorn falls into the ground and grows into an oak tree. 
+			a. They both have the same form
+			b. The first oak tree is the cause of the form of the second oak tree
+			c. But, though we have sameness of form and causation in this scenario, this doesnt seem to be intentional.
+4. Positive conception of intentionality
+	a. Due to the issues with (a) we must pose (b)
+	b. Nature provides intentionality to thought and knowledge
+	c. My cognitive powers are directed to the world, and they are means by which I achieve my end which involves knowledge of truth.
+		1. I by my nature am directed toward an end
+			a. Rational activity in accord with virtue (the highest virtue)
+			b. The development and use of virtue
+			c. All of these things help fulfil the end, which is pursuit of truth
+			d. The cognitive powers are directed by this natural inclination
+	d. Sameness of form in my intellect is the means by which my cognitive powers are directed towards this or that kind of thing
+
+== Truth: ==
+1. __Truth__ is the //adequation// of the mind to the thing.
+	a. Involves 2 things:
+		1. towards (ad)
+		2. equality (equation)
+2. The world is the //measure// of the mind's equality to reality
+3. What in the mind can be true?
+4. Not the mind's first act
+	a. Acts of the mind:
+		1. Simple apprehension
+			a. What a dog is
+			b. Can be incomplete **but is not subject to being in actual error**
+		2. Judgement
+			a. Sentences or propositions about the thing, combines different concepts
+			b. A //dog// is a //material// thing
+		3. Reasoning
+			a. Arguments
+			b. All men are mortal
+			c. Socrates is a man
+			d. => Socrates is mortal
+5. Simple apprehension cannot be true or false
+	a. Equality b/w real things requires distinction among them
+	b. Superman can't be called the equal of Clark Kent
+	c. This can't be said because there is no formal difference between the first act of the mind and the object of apprehension
+6. Truth is found in the second act of the mind
+	a. Judgements have propositional structure, things in the world do not have propositional structure.
+	b. Whether or not the judgement is correct is determined by the way the world actually is
+

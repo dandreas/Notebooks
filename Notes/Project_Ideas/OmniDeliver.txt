@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-29T18:26:49-06:00
+
+====== OmniDeliver ======
+Created Wednesday 29 November 2017
+
+=== General Summary: ===
+[[OmniDeliver]] would be a webapp and possibly an android app developed using .jsp webpages. It would offer the service of delivery from places that normally do not deliver, such as fast food, and also to places that other places that do deliver might not, such as universities. It would accomplish this feat by charging extra for the service, and use contractors which take a majority of the extra cash and pocket it, paying for gas and time. 
+
+=== Percieved Requirements: ===
+* Web client for end users
+* Creation of tickets for contractors to get the food
+* Database of restaurants, and the available foods with costs.
+
+== Possible Extra Functionalities: ==
+* A map connection, to determine distance from the nearest restaraunt to the customer address.
+* A payment connection
+
+=== References: ===
+(none yet)

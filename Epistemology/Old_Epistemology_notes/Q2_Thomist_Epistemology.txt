@@ -1,0 +1,211 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-23T19:46:28-06:00
+
+====== Q2 Thomist Epistemology ======
+Created Thursday 23 November 2017
+
+=== &!(10312017) ===
+Story time with Grandpa Don
+	Questions we can ask about beings:
+		What is it made of? (material cause)
+		What is it? (formal cause)
+			Substantial forms: Formal causes in the fullest sense, makes a thing what it is. (horse)
+			Accidental forms: Particularising features. Certain configuring features of a thing that are not essential to its subst. form. (color)
+		How did it come to be? (efficient cause)
+		What is it for? (final cause)
+        
+		Material & Formal causes: Intrinsic causes
+		Efficient & Final causes: Extrinsic causes
+			Final causes may be intrinsic
+
+		Prime matter: Fundamental principle of potentiality.
+			Has the potential to be in other substantial forms
+
+		Prime matter <-(inherence)- Substantial form
+
+		The observer will see the accidental forms of a thing, and use them to intuit the substantial form of them.
+		2 forms of this cognititive process
+			Cognition is an umprella term.
+				Sense:
+					Shared with lower animals
+					Power of sight (causal impact of perception)
+					Totally material
+					Internal senses (making sense of things (sugar is both sweet and white, percieved 
+						thru different senses, but they are the same thing))
+					Phantasm: Active interacting part with the intellective processes
+				Intellective:
+					In some form shared with angels/God
+					Active intellect: Abstracts from senses via the phantasm to discern knowledge about a thing
+					Passive intellect: Gains the substantial forms percieved via data from active intellect/phantasm.
+					Immaterial
+
+=== &!(11072017) ===
+Perception:
+	Processes
+		Sensation
+			Involves material change in the objects of perception
+		(nameless) Integration?
+			Brings the multiple senses together
+		Abstraction
+			Not an action of body on mind
+			Is an action of the agent intellect(active) acting efficiently on the phantasm
+			The end product is the intelligible species
+			The end product is deposited in the passive intellect
+			Involves the removing or ignoring of the material accidents of the thing, preserved in the phantasm
+			By stripping away these accidents, the active intellect brings out the quiddity or essence of the thing known
+		Act of Word
+	Species
+		A sensible species (not conscious)
+			Not available at will (feel burning)
+		Phantasm (conscious)
+			Available at will (imagine rome burning)
+		Intelligible (not conscious)
+			Analogue in intellectual cognition to the sensible species in sense cognition
+			Similarities to sensible species and phantasms:
+				Immaterial forms: forms are recieved immaterial (spiritual reception)
+				Means of cognition, not what is cognized. 
+				Similitude of extramental things
+					has the same form of the things cognized, but not in the same way
+			Differeces to sensible species:
+				CAN be an object of knowledge: We can know our intelligible species by reflection
+				Does not exist in a bodily organ
+				Does not depend on material changes in a bodily organ
+				Exist in the passive intellect
+		Mental word (conscious)
+	Powers
+		In the sense powers, which are bodily
+		Power of phantasia (bodily and in the brain)
+		Active intellect (immaterial, part of the soul), passive intellect (")
+			Came to be by the active intellect, exists in the passive intellect
+		Exists in the intellect (mysterious)
+
+=== (11092017) ===
+For Aquinas:
+	Intellectual knowledge is derived from sensible things (STq84a6)
+		ground up, not forms down
+		arg against:
+			Insofar as something is sensible, it is material
+			Material things cannot act on immaterial things
+				Material things are limited by nature, confined to the space they occupy
+				Immaterial things are not confined by space
+			=> sensible things cannot have a role in making intellectual knowledge happen
+
+		Originally, the atomists believed sense and intellectual knowledge are =
+		Next, Plato distinguishes the two, int k and sense k, and makes them entirely independent
+		Aristotle follows, still distinguishing those things, however he argues that they are dependent on eachother
+			soul and body act together to make sensible species
+		It is because of this that Aristotle and Aquinas are empiricists
+	Intellect understands corporeal things by abstraction from phantasms (STq85a1)
+		OB1:
+			If material things are not abstract in themselves, then there is a falseness of our knowledge of them (since we cannot think the material)
+		The condition in which the knowing power exists will be similar to the condition in which the object of that power exists
+		Sense is of individual things
+		Object of human intellectual cognition:
+			In one sense in matter
+				What we know are the forms of material things
+			In another sense apart from matter
+				The way we know those forms is universally and apart from matter
+		Purpose of intellectual apparatus:
+			Know about the material world
+		We cannot know much if anything about God or anything immaterial, what little we can is found through the intellect
+
+		Abstraction:
+			2 types
+				Caesar had no weight (wrong)
+				(simple consideration) consider Caesar apart from his weight
+			Concieving of the species of a thing beyond its individual characteristics
+	The intellegible species is that by which we know, not what we know (STq85a2)
+        
+
+=== (11142017) ===
+For Papers: think about the core of your argument.
+Immateriality of cognition is essential for Aquinas. 
+
+Content Fallacy
+	An alleged problem for Aquinas' argument for immateriality of thought and soul.
+	Content fallacy: It is fallacious to infer properties of the vehicle of representation from properties of the thing represented
+	Case: Painting
+		A chimney (thing represented)
+			property of the thing represented: it smokes
+		Painting of a chimney (vehicle of representation)
+			is smoking represented in the vehicle? no
+	Claim: Aquinas in his argument for the soul's immateriality commits the content fallacy
+    
+	Reply
+	P1. Intellectual acts are essentially constituted by conceptualized universal natures
+		"essential constitution": a thing isn't an intellectual act unless it has a universally conceptualized nature of a thing
+	P2. No materially instantiated property is universal
+	=>  Conceptualized universal natures are not materially instantiated
+	P3. What is essentially constituted by non-materials is itself non-material
+	=>  Intellectual acts are non-material
+
+Content Fallacy Redux:
+	Claim: Aquinas fails to distinguish between 2 senses of abstraction
+	2 types of abstraction:
+		Abstraction 1: to remove representation of the material conditions of the thing represented
+		Abstraction 2: to remove the material conditions of the vehicle of representation.
+	Sense representations:
+		The materiality, size, shape, etc. of what it is of.
+		(is a form and matter compound)
+		Representation of the material conditions of the thing represented (A1)
+		Subtract of M thereby remoing representation of material conditions (A2)
+		A1 substance representation has both the form and matter
+		A2 SR has only the form
+		It seems like we can achieve abstraction without removing material conditions
+
+=== &!(11212017)3x ===
+Immateriality of the soul:
+=>  Representative immateriality requires ontological immateriality
+P1. Representative immateriality requires absense of encoded information about a thing's material individuation conditions (MIC).
+	MIC: location, size, shape.
+P2. Whatever has MIC represents through its MIC.
+		A DVD represents its contents through its MIC
+P3. Whatever represents through its MIC encodes information about the object's MIC.
+	P3.1 Whatever represents thru its MIC comes to represent thru physical causal interaction w/
+		 its object
+	P3.2 Whatever comes to represent thru physical causation interaction w/ its obect encodes info 
+		 about that object's MIC.
+
+Identity thesis Itself:
+	1. There are different kinds of identity:
+		x - Numerical: Same instance, same kind
+			Superman is numerically identical to Clark Kent
+		y - Formal: Different instance, same kind
+			Ruby and Tex (different instances of dog)
+	2. This thesis is important
+			Aquinas poses this as what cognition IS
+			Aquinas thinks all causation is trasference of form
+				(parents transfer form to children)
+			Without sameness of form, directness of cognition is compromised
+	3. Difficulties with Doctrine.
+		a. p1. Forms constitute + characterize material substances
+			p2. Whatever is in the intellect doesn't do this.
+			=>  Whatever is in the intellect isn't a form of a material substance.
+			Reply: p1 is false.Forms do not only have to characterize material substances. We can show
+				   this by looking at a nature absolute
+	b. p1. Fido has the same form as Spot.
+			p2. Fido does not know Spot.
+			=>  Having the same form doesn't make a thing know
+			Reply: 
+	c. p1. In living things, separation of form and matter is death.
+			p2. Knowing something doesn't involve killing it.
+			=>  Knowing a thing cannot involve separating its soul from its matter
+	4. Absolute consideration of Nature
+		1. Nature can be considered in 2 ways.
+			with relation to (wrt)
+	a. Wrt its mode of existence
+	b. wrt nothing else (absolutely).
+	2. The Nature absolutely considered is the formal intelligibility, neither one nor universal, that is found in things
+			and acts of intellect
+	3. The same characteristics specify things + acts of intellect.
+	5. Isomorphism
+		Q. What it is exactly for two things to have the same form.
+		Sellars: formal sameness is isomorphism
+		Isomorphism = A + B are isomorphic just if there is a 1-1 mapping of features of A onto features of B.
+	6. Intentionality
+		1. A feature of mental states
+		2. It is the "aboutness of mental states.
+		3. Q. What makes a mental state have intentionality?
+		4. Possible Answer: formal sameness
+

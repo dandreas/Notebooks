@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-29T18:25:05-06:00
+
+====== Project Ideas ======
+Created Wednesday 29 November 2017
+
+These are a collection of project ideas with their specifics and notes. If a new page/sub is made, they will be listed at the end under a heading "References"

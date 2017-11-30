@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-23T19:49:53-06:00
+
+====== Zim Epistemology Notes ======
+Created Thursday 23 November 2017
+
+All notes under this will be sorted by date and properly formatted with Zim.
+
+=== Peer review: ===
+* 2 double-spaced pages for comments.
+* Point out difficulties in paper
+

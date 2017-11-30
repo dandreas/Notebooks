@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-28T23:26:59-06:00
+
+====== DnD ======
+Created Tuesday 28 November 2017
+
+Wyrwood Alchemist: Quercus Acutissima
+wyrwoods: wooden constructs that gained free will
+* Componet in arm that creates random bombs/potions
+* Chaotic Neutral
+
+A wyrwood that was broken at creation, and thus generated chaotic tendencies, and is far less xenophobic and attached to the survival of its species. Due to this, Quercus is 
