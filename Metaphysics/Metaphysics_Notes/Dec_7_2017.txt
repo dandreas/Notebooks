@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-07T12:33:48-06:00
+
+====== Dec 7 2017 ======
+Created Thursday 07 December 2017
+
+1. Feser on god's intelligence
+	a. Principle of causality
+		1. every effect has a cause
+		2. every actualization of a potential is actualized by something actual
+		3. you can't give what you don't have
+	b. Principle of proportionate causality
+		1. effect in cause
+			a. formally
+			b. virtually
+			c. eminently
+2. Intelligence
+	a. Understanding: capacity to grasp abstract concepts
+	b. Judgement: combining concepts into complete thought
+	c. Reasoning: inferring one thought from another

@@ -1,0 +1,66 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-05T11:02:53-06:00
+
+====== Dec 5 2017 ======
+Created Tuesday 05 December 2017
+
+=== News: ===
+* Final Presentations
+	* Monday December 18th 10:15 - 12:15
+	* Dress in a way that helps you present best
+	* 10 minute presentation
+	* Follow the review questions
+		* (there will be another handout)
+
+=== Scientia ===
+1. __Scientia__: perfect cognition of a thing through its causes
+	a. Requires understanding
+	b. Requires such a complete understanding of the causes of something, that ones understanding of that thing is grounded in the causes.
+2. How to apply scientia to particulars
+	a. Original argument (that doesn't work for scientia)
+		1. All vines are broad leaved
+		2. All broad leaved plants are sap-congealers at the leaf stalk
+		3. All sap congealers at the leaf stalk are deciduous
+		4. => All vines are deciduous
+	b. Doesn't work because p1 isn't primitive
+	c. Revised argument (part 1, scintific demonstration proper)
+		1. All broad leaved plants are sap-congealers at the leaf stalk
+		2. All sap-congealers at the leaf stalk are deciduous
+		3. => All broad leaved plants are deciduous
+	d. (part 2, application)
+		1. All vines are broad leaved
+		2. (3) All broad leaved plants are deciduous
+		3. => All vines are deciduous
+3. Finishing off priority condition on the premises
+	a. Premises must state truths prior in being to the conclusion.
+	b. Premises must state the causes of the conclusion.
+	c. Premises must be immediate.
+	d. (You can't make a whyagram)
+		1. foundationalism?
+4. Comparison to contemporary theories of knowledge
+	a. Seriously restricted scope.
+	b. To have scientia, //lots //of knowledge is already required
+		1. movement from knowledge to more perfect knowledge
+	c. The theory of scientia is a non-skeptical foundationalist theory.
+5. Some questions about our knowledge of first principles
+	a. Could one really expect to know all first principles of the various sciences?
+	b. Can we really know first principles non-inferentially?
+	c. Can we know the premises of scientific demonstrations better than the conclusions?
+6. Indefectibility Doctrine
+	a. __Indifectibility Doctrine:__ The intellect is indefectible (cannot be false) in its first operation of knowing the essences of things.
+	b. 2 refinements:
+		1. The intellect in its first operation is "infallible" insofar as it is neither true nor false.
+		2. The intellect in its first operation is always veratious
+
+=== Analytic Synthetic ===
+1. Analytic truths: truths based solely on minds and the meaning of terms
+2. Synthetic truths: truths based upon looking at the world (not simply based on the meanings of terms)
+3. arguing for 6b2:
+	a. The first operation of the intellect is the grasp of analytic truths.
+4. Reply:
+	a. When you know the subject, you must know the predicate as well.
+	b. This means analytic truths can have analytic predicates
+	c. If you cannot know analytic truths without knowing the predicates
+	d. This is too strong, since you should be able to know something partially through the first act of the intellect.
+
