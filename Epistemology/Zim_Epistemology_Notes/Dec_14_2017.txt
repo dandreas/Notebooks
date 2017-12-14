@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-14T11:01:22-06:00
+
+====== Dec 14 2017 ======
+Created Thursday 14 December 2017
+
+* There will be notes in the handout-text.
+
+=== Assorted Notes: ===
+1. Epistemology as Lexicology
+	a. General format: "S knows that p"
+		1. Case: Blake is a knight
+		2. Blake is a knight only if Blake is indomitable in battle
+		3. only if she rules her realm with wisdom
+		4. only if she makes women swoon
+		5. only if always courteous in public and private
+		6. only if she has subtle but perfect fashion sense
+			a. After this, you ask "is anyone a knight?"
+			b. It seems like nobody meets the full requirements
+	b. When we are studying a term lexicologically, we are studying the sufficient conditions for something in the world to reflect the way we refer to the term linquistically.

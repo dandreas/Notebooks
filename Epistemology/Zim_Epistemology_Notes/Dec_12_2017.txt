@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-12T11:03:53-06:00
+
+====== Dec 12 2017 ======
+Created Tuesday 12 December 2017
+
+=== Extra stuff: ===
+* Lots of housekeeping stuff
+	* Took course evals
+	* Talked about justice and charity
+
+=== Class ===
+Different disciplines are defined by different middles
+* Maths
+	* Earth is a sphere
+	* Spheres are round
+* Natural philosophy
+	* Earth is made of matter
+	* Matter gratiates to a fixed point
+	* Matter around a fixed point is round
+* One conclusion
+	* Earth is round
+
+Applied to a modern argument: the universe had a beginning
+* Philosophy
+	* The universe is finite and has non-maximal entropy.
+		* nme: The point at which the universe cannot undergo any other physical changes.
+	* What is finite and has non-maximal entropy has a beginning in time.
+* Theology
+	* The universe was created from nothing by God.
+	* What is created from nothing by God has a beginning.
+* One conclusion
+	* The universe had a beginning
