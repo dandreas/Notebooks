@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T14:14:14-06:00
+
+====== Post-Move ======
+Created Monday 12 February 2018
+
+All notes made post move back to zim
