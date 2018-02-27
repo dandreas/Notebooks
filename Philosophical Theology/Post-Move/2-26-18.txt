@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-26T14:02:49-06:00
+
+====== 2-26-18 ======
+Created Monday 26 February 2018
+
+=== Notes ===
+1. "Forward and backward" looking problem.
+2. Orders of the will:
+	a. First: what you directly will (ice cream) (could be good, maybe not)
+	b. Second: what you will to will (salad) (properly good)
+	c. These can (and often do) conflict.

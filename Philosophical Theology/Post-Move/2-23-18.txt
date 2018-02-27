@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-23T14:07:04-06:00
+
+====== 2-23-18 ======
+Created Friday 23 February 2018
+
+=== Notes: ===
+1. How to handle passibility and impassibility of Christ?
+	a. Can't be at different times, since something impassible can never change.
+	b. Passible and impassible in different ways?
+		1. A (doesn't work, nothing is different)
+			a. Qua human, Christ is passible.
+			b. Qua divine, Christ is impassible.
+		2. S (doesn't work, subject must be the same)
+			a. Christ-qua-human is passible.
+			b. Christ-qua-divine is impassible.
+		3. P (does work, makes the distinction based upon natures)
+			a. Christ is passible-qua-human.
+				1. actual opposite would be non-passible-qua-human
+			b. Christ is impassible-qua-divine.
+				1. actual opposite would be non-impassible-qua-divine
+		4. C (???)
+			a. Christ is-qua-human passible.
+			b. Christ is-qua-divine impassible.
+2. Worries with 1b3:
+	a. ad hoc: it was only made to solve the problem of impassibility/passibility of Christ
+		1. R: this is just a matter of categorization, so there is nothing ad hoc about it.
+	b. bilocation/multiple incarnation issue:
+		1. R: make it more specific (author disagrees)
+		2. (paper topic)
+3. A new approach by the author:
+	a. **Passibility: **have //a nature// that is causally affectable.
+	b. **Impassibility: **have //a nature// that is not causally affectable.
+	c. This fulfills the requirements for passibility normally, each thing normally only has one nature and thus can only be one or the other, yet Christ, having more than one, is able to have both.
+

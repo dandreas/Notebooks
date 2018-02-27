@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-16T14:20:49-06:00
+
+====== Martins Objections to the Incarnation ======
+Created Friday 16 February 2018
+
+**Martin's Objectiosn Summarized**
+
+A. //Contradictory Attributes://
+	1. Attributes of a person's mind(s) are predicated of the person who bears the mind(s).
+	2. On Christian doctrine, in virtue of His divine mind, Christ is omniscient.
+	3. Therefore, the person Christ is both omniscient and not omniscient.
+	4. Nothing can be both F and not-F, where F is some feature of attribute.
+	5. Therefore, Christian doctrine concerning the Incarnation is false.
+B. //Two Minds://
+	1. Anything with two minds has two independent centers of rational agency.
+	2. No single person has two independent centers of rational agency.
+	3. Therefore, no single person can have two minds.
+	4. On Christian doctrine, Christ is one person with two minds.
+	5. Therefore, Christian doctrine about Christ is false.
+C. //Christ's Temptation://
+	1. S is tempted to sin only if S is attracted to doing something immoral.
+	2. A morally perfect being could not be attracted to doing something immoral.
+	3. On Christian doctrine, Christ is both a morally perfect being and was tempted to sin
+	4. Therefore, Christian doctrine is false.
+D. //Christ as Model://
+	1. S is a moral model for human beings only if S at some time is attracted to doing something immoral.
+	2. Christ cannot be attracted to doing anything immoral.
+	3. Therefore, Christ is not a moral model for human beings.
+E. //Christ's Praiseworthiness://
+	1. S's lack of attraction to a sinful act is praiseworthy only if S at some time felt an attraction to that sinful act and overcame it by conscious effort.
+	2. Christ never felt attraction to any sinful act.
+	3. Therefore, Christ's lack of attraction to sinful acts is not praiseworthy.
+F. //Against the Reasonableness of Christian Belief://
+	1. Christian belief relies on Spirit Epistemology.
+	2. Any belief that relies on Spirit Epistemology is not reasonable.
+		a. Any belief that relies on Spirit Epistemology has the same epistemic status as the beliefs of followers of Apollonius, who have an Apollonius Epistemology (=those whose impediments have been removed by God can see that Apollonius is God incarnate).
+		b. The beliefs of followers of Apollonius are not reasonable.
+	3. Christian belief is not reasonable
+G. //Evidence for the Incarnation://
+	1. Miracles do not rationally support the belief that Jesus is the Son of God.
+		a. Miracles can be worked by persons who are not the Son of God.
+		b. There is not enough justification to believe that Jesus worked miracles.
+	2. Jesus' moral example does not rationally support the belief taht Jesus is the Son of God.
+		a. Moral perfection is possible for persons other than the Son of God.
+		b. Jesus was not an ideal moral example.
+	3. Belief in the Incarnation can be rationally supported only by Jesus' miracles and moral example.
+	4. Therefore, belief in the Incarnation is not rationally supported.

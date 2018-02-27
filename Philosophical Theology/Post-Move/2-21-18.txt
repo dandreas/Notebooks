@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-21T14:01:45-06:00
+
+====== 2-21-18 ======
+Created Wednesday 21 February 2018
+
+=== News: ===
+* Incarnation test due Monday before the end of the day.
+* Paper proposal due Wednesday March 7th
+	* (2 weeks from today)
+
+=== Notes: ===
+1. Christ is both passible and impissible
+	a. **passible:** causally effected by something
+	b. passible in his human nature
+	c. impassible in his divine nature
+2. argument:
+	a. Something which is divine is impassable.
+	b. Anything human is passible.
+	c. Nothing can be both passable and impassible
+	d. Christ is both divine and human.
+	e. Christ is both passible and impassible
+	f. c and e cannot both be true.
+3. Reply:
+	a. Assertion(A):
+		1. Qua human, Christ is passible
+		2. Qua divine, Christ is impassible
+	b. Subject (S):
+		1. Christ qua human is passible
+		2. Christ qua divine is impassible
+	c. Predicate (P):
+		1. Christ is passible qua human
+		2. Christ is impassible qua divine
+	d. Copula (C):
+		1. Christ is qua human passible
+		2. Christ is qua divine impassible
+4. h
