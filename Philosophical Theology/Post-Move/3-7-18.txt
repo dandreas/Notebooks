@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-07T13:59:20-06:00
+
+====== 3-7-18 ======
+Created Wednesday 07 March 2018
+
+1. Anselmian view: Forgiveness requires contrition on the part of the wrongdoer.
+	a. Forgiveness and reconciliation are the same thing
+2. Aquinas view (by Stump): Forgiveness only requires the action of the wronged
+	a. Forgiveness is the wronged forswearing resentment
+	b. Reconciliation requires reparation between the wronged and the wrongdoer
+	c. Love and forgiveness are logically equivalent.
+		1. If you don't forgive someone you don't love them.
+		2. If you forgive someone you love them.
+		3. If you love someone then you forgave them.
+	d. Aquinas argues that love is obligatory, in the sense that, for any person the absence of love is morally blameworthy, and the presence of love is necessary for moral good or excellence.
+	e. Given the connection between love and forgiveness above, forgiveness is also obligatory.
+		1. Even though this is true, the wrongdoer has no right to this forgiveness.
+		2. Rather, the wronged is subject to moral censure due to the lack of love in particular.
+	f. The wronged has no right to demand reparation by this account, the wronged should give penance or reparation if asked that contributes to the greater good of the wrongdoer.
+3. Objection to Aquinas view by Stump from Aquinas:
+	a. [[http://www.newadvent.org/summa/4086.htm#article2|Whether sin can be pardoned without Penance]]
+	b. Objection 3: 
+		1. Further, God's mercy is greater than man's. Now man sometimes forgives another for offending him, without his repenting: wherefore our Lord commanded us (Matthew 5:44): "Love your enemies, do good to them that hate you." Much more, therefore, does God pardon men for offending him, without their repenting.
+		2. God's mercy is more powerful than man's, in that it moves man's will to repent, which man's mercy cannot do. 
+	c. There is a difference between the grace of god and grace of man.
+		1. God's grace is productive of goodness, man's is not.
+		2. So, when you are in another man's good graces it will not bring any good in you *metaphysically*
+		3. Grace from God perfects the good in us
+	d. So, due to this a man can forgive another, without changing the will of the wrongdoer.
+	e. However it is impossible that God pardon a man without his will being changed.
+		1. If we were to accept God's love, we would be changed to be repentant
+		2. If we were to block this love, we would also lose the forgiveness
+
+God's own forgiveness seems less powerful than mine given the nature that Aquinas attributes to it in the article. The grace of God causes good in the person, and this grace is the love (and therefore forgiveness) of God in the person. 
